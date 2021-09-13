@@ -1,3 +1,3 @@
+## Slide 3
 
-
-Slide two is looking good.
+Slide three is looking good.
